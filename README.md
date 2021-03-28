@@ -11,5 +11,4 @@ iii. Pełna maska sieci
 iv. Adres broadcast
 v. Pierwszy adres hosta
 vi. Ostatni adres hosta
-vii. Maksymalna liczba hostów, która może być przypisana do danej podsieci# Kalkulator_podsieci
-# Kalkulator_podsieci
+vii. Maksymalna liczba hostów, która może być przypisana do danej podsieci
